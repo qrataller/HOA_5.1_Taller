@@ -1,6 +1,6 @@
-#192.168.56.104 
-192.168.56.106 
+192.168.56.104 apache_package=apache2 php_package=libapache2-mod-php  
+192.168.56.106 apache_package=apache2 php_package=libapache2-mod-php
 
 #CentOS IP Address
-192.168.56.107 
+192.168.56.107 apache_package=httpd php_package=php
 
